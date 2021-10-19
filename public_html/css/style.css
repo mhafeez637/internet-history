@@ -1,0 +1,59 @@
+.red {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#primaryLinks {
+    height: 100px;
+    line-height: 70px;
+    width: 600px;
+    text-align: right;
+    float: left;
+    margin: 0;
+}
+#primaryLinks li {
+    display: inline;
+}
+
+#primaryLinks menu {
+    padding-top: 0;
+    padding-left: 0;
+}
+
+#logo {
+
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+#wrapper{
+    width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo img {
+
+    height: 100px;
+}
+
+#primaryContent {
+    width: 740px;
+    float: left;
+    text-align: justify;
+}
+#footer{
+    clear: both;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}
+#topContent {
+    height: 100px;
+    line-height: 100px;
+}
+.clearFix {
+    clear: both;
+}
