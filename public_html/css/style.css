@@ -14,6 +14,7 @@
     float: left;
     margin: 0;
 }
+
 #primaryLinks li {
     display: inline;
 }
@@ -29,31 +30,42 @@
     width: 100px;
     float: left;
 }
-#wrapper{
+
+#wrapper {
     width: 740px;
     margin-left: auto;
     margin-right: auto;
 }
+
+#internet img {
+    width: 400px;
+    height: 266px;
+}
+
 #logo img {
 
     height: 100px;
 }
 
 #primaryContent {
-    width: 740px;
+    width: 500px;
     float: left;
-    text-align: justify;
 }
-#footer{
+
+#footer {
     clear: both;
     text-align: center;
     height: 100px;
     line-height: 100px;
 }
+
 #topContent {
     height: 100px;
     line-height: 100px;
+    text-decoration-color: grey;
+
 }
+
 .clearFix {
     clear: both;
 }
