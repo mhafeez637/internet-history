@@ -30,6 +30,13 @@
     width: 100px;
     float: left;
 }
+#banner img{
+
+    width: 740px;
+    height: 100px;
+}
+
+
 
 #wrapper {
     width: 740px;
@@ -47,7 +54,11 @@
     height: 100px;
 }
 
-#primaryContent {
+#primaryContentZ {
+    width: 740px;
+    float: left;
+}
+#primaryContentF {
     width: 500px;
     float: left;
 }
